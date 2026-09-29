@@ -1,0 +1,29 @@
+wmo_code,weather_description,weather_icon_url
+0,Sunny,https://raw.githubusercontent.com/Tahola-LTD/Weather-Icons/main/png/sunny.png
+1,Mainly Sunny,https://raw.githubusercontent.com/Tahola-LTD/Weather-Icons/main/png/sunny_s_cloudy.png
+2,Partly Cloudy,https://raw.githubusercontent.com/Tahola-LTD/Weather-Icons/main/png/partly_cloudy.png
+3,Cloudy,https://raw.githubusercontent.com/Tahola-LTD/Weather-Icons/main/png/cloudy.png
+45,Foggy,https://raw.githubusercontent.com/Tahola-LTD/Weather-Icons/main/png/fog.png
+48,Rime Fog,https://raw.githubusercontent.com/Tahola-LTD/Weather-Icons/main/png/fog_s_snow.png
+51,Light Drizzle,https://raw.githubusercontent.com/Tahola-LTD/Weather-Icons/main/png/rain_light.png
+53,Drizzle,https://raw.githubusercontent.com/Tahola-LTD/Weather-Icons/main/png/rain_light.png
+55,Heavy Drizzle,https://raw.githubusercontent.com/Tahola-LTD/Weather-Icons/main/png/rain.png
+56,Light Freezing Drizzle,https://raw.githubusercontent.com/Tahola-LTD/Weather-Icons/main/png/rain_s_snow.png
+57,Freezing Drizzle,https://raw.githubusercontent.com/Tahola-LTD/Weather-Icons/main/png/snow_s_rain.png
+61,Light Rain,https://raw.githubusercontent.com/Tahola-LTD/Weather-Icons/main/png/rain_light.png
+63,Rain,https://raw.githubusercontent.com/Tahola-LTD/Weather-Icons/main/png/rain.png
+65,Heavy Rain,https://raw.githubusercontent.com/Tahola-LTD/Weather-Icons/main/png/rain_heavy.png
+66,Light Freezing Rain,https://raw.githubusercontent.com/Tahola-LTD/Weather-Icons/main/png/rain_s_snow.png
+67,Freezing Rain,https://raw.githubusercontent.com/Tahola-LTD/Weather-Icons/main/png/snow_s_rain.png
+71,Light Snow,https://raw.githubusercontent.com/Tahola-LTD/Weather-Icons/main/png/snow_light.png
+73,Snow,https://raw.githubusercontent.com/Tahola-LTD/Weather-Icons/main/png/snow.png
+75,Heavy Snow,https://raw.githubusercontent.com/Tahola-LTD/Weather-Icons/main/png/snow_heavy.png
+77,Snow Grains,https://raw.githubusercontent.com/Tahola-LTD/Weather-Icons/main/png/snow_light.png
+80,Light Showers,https://raw.githubusercontent.com/Tahola-LTD/Weather-Icons/main/png/sunny_s_rain.png
+81,Showers,https://raw.githubusercontent.com/Tahola-LTD/Weather-Icons/main/png/rain_s_sunny.png
+82,Heavy Showers,https://raw.githubusercontent.com/Tahola-LTD/Weather-Icons/main/png/rain_heavy.png
+85,Light Snow Showers,https://raw.githubusercontent.com/Tahola-LTD/Weather-Icons/main/png/cloudy_s_snow.png
+86,Snow Showers,https://raw.githubusercontent.com/Tahola-LTD/Weather-Icons/main/png/snow_s_cloudy.png
+95,Thunderstorm,https://raw.githubusercontent.com/Tahola-LTD/Weather-Icons/main/png/thunderstorms.png
+96,Light Thunderstorms With Hail,https://raw.githubusercontent.com/Tahola-LTD/Weather-Icons/main/png/thunderstorms_light_s_snow.png
+99,Thunderstorm With Hail,https://raw.githubusercontent.com/Tahola-LTD/Weather-Icons/main/png/thunderstorms_s_snow.png
